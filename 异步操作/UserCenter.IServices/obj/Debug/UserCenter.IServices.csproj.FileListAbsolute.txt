@@ -1,9 +1,0 @@
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\bin\Debug\UserCenter.IServices.dll
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\bin\Debug\UserCenter.IServices.pdb
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\bin\Debug\UserCenter.DTO.dll
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\bin\Debug\UserCenter.DTO.pdb
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\obj\Debug\UserCenter.IServices.csprojAssemblyReference.cache
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\obj\Debug\UserCenter.IServices.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\obj\Debug\UserCenter.IServices.csproj.CopyComplete
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\obj\Debug\UserCenter.IServices.dll
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.IServices\obj\Debug\UserCenter.IServices.pdb

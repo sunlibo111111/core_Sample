@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.DTO\bin\Debug\UserCenter.DTO.dll
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.DTO\bin\Debug\UserCenter.DTO.pdb
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.DTO\obj\Debug\UserCenter.DTO.csprojAssemblyReference.cache
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.DTO\obj\Debug\UserCenter.DTO.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.DTO\obj\Debug\UserCenter.DTO.dll
-C:\Users\Administrator\Desktop\多线程\多线程\第三部分\最后一天的项目代码：上课的代码\UserCenter.DTO\obj\Debug\UserCenter.DTO.pdb
