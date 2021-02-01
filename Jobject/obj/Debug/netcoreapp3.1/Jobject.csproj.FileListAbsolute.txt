@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\V\Jobject\bin\Debug\netcoreapp3.1\Jobject.deps.json
+C:\Users\Administrator\Desktop\V\Jobject\bin\Debug\netcoreapp3.1\Jobject.dll
+C:\Users\Administrator\Desktop\V\Jobject\bin\Debug\netcoreapp3.1\Jobject.pdb
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.dll
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.pdb
+C:\Users\Administrator\Desktop\V\Jobject\bin\Debug\netcoreapp3.1\Jobject.exe
+C:\Users\Administrator\Desktop\V\Jobject\bin\Debug\netcoreapp3.1\Jobject.runtimeconfig.json
+C:\Users\Administrator\Desktop\V\Jobject\bin\Debug\netcoreapp3.1\Jobject.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\V\Jobject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\V\Jobject\obj\Debug\netcoreapp3.1\Jobject.csproj.CopyComplete
